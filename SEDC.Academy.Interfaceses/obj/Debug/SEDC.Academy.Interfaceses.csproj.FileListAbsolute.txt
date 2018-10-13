@@ -1,0 +1,2 @@
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module02\SEDC.Academy.Interfaceses\obj\Debug\SEDC.Academy.Interfaceses.csprojResolveAssemblyReference.cache
+C:\Users\Hristina\Desktop\projects\Excersices.CSharp.Advanced\Module02\SEDC.Academy.Interfaceses\obj\Debug\SEDC.Academy.Interfaceses.csproj.CoreCompileInputs.cache
